@@ -1,0 +1,84 @@
+my-getopt.o: my-getopt.c \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/string.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stddef.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/xlocale.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string2.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/endian.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/endian.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/byteswap.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdlib.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string3.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdio.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/libio.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/_G_config.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/wchar.h \
+ /home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stdarg.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/sys_errlist.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio2.h \
+ ../config.h my-getopt.h
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/string.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h:
+
+/home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stddef.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/xlocale.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string2.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/endian.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/endian.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/byteswap.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/types.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/typesizes.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdlib.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string3.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdio.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/libio.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/_G_config.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/wchar.h:
+
+/home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stdarg.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio_lim.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/sys_errlist.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio2.h:
+
+../config.h:
+
+my-getopt.h:

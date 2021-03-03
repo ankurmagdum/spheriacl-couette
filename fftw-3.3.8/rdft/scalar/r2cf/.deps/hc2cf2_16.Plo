@@ -1,0 +1,125 @@
+hc2cf2_16.lo: hc2cf2_16.c ../../../rdft/codelet-rdft.h \
+ ../../../kernel/ifftw.h ../../../config.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdlib.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stddef.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/waitflags.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/waitstatus.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/endian.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/endian.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/byteswap.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/types.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/time.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/select.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/select.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/sigset.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/time.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/sysmacros.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/alloca.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdlib.h \
+ /home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stdarg.h \
+ /home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include-fixed/limits.h \
+ /home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include-fixed/syslimits.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/limits.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix1_lim.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/local_lim.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/linux/limits.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
+ /home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stdint.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdint.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wchar.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/inttypes.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/time.h \
+ /home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/xlocale.h \
+ ../../../rdft/scalar/hc2cf.h
+
+../../../rdft/codelet-rdft.h:
+
+../../../kernel/ifftw.h:
+
+../../../config.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdlib.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h:
+
+/home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stddef.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/waitflags.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/waitstatus.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/endian.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/endian.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/byteswap.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/types.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/types.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/typesizes.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/time.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/select.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/select.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/sigset.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/time.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/sysmacros.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/alloca.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdlib.h:
+
+/home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stdarg.h:
+
+/home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include-fixed/limits.h:
+
+/home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include-fixed/syslimits.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/limits.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix1_lim.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/local_lim.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/linux/limits.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix2_lim.h:
+
+/home/ankur/anaconda3/lib/gcc/x86_64-conda_cos6-linux-gnu/7.3.0/include/stdint.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdint.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wchar.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/inttypes.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/time.h:
+
+/home/ankur/anaconda3/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/xlocale.h:
+
+../../../rdft/scalar/hc2cf.h:
