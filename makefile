@@ -1,14 +1,12 @@
-CFLAGS = -O3
-CPPFLAGS = -DCPU_TIME
-
+# set the fortran compiler
 FC = gfortran
-CC = gcc
 
 PGM = main
 
 MAINF = $(wildcard src/*.f90)
 OBJS = $(patsubst %.f90, %.o, $(MAINF))
 
+# set the path to the libraries
 LDFLAGS = -L/usr/local/lib -lshtns -lfftw3 -L/usr/lib -llapack
 
 main: $(OBJS) main.o
